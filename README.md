@@ -5,3 +5,5 @@ It is a CSV file:
 [pos],[name],[score]
 
 You could always ctrl+f to find yourself!
+Download the file for the raw data to format yoursef :)
+...and congrats to anyone on there!
