@@ -1,0 +1,1014 @@
+1,betaveros,4052
+2,ecnerwala,4022
+3,goffrie,3784
+4,Kevin Sun ,3570
+5,hyper-neutrino,3180
+6,(anonymous user #1510407),3125
+7,Robert Xiao,2947
+8,Brandon Lin,2888
+9,mserrano,2776
+10,tckmn,2764
+11,jonathanpaulson,2619
+12,aleksejspopovs,2590
+13,xnkvbo,2588
+14,dan-simon,2481
+15,Antonio Molina,2424
+16,leijurv,2362
+17,Vladislav Isenbaev ,2361
+18,Tom Holmes,2336
+19,bluepichu,2158
+20,Lewin Gan,2088
+21,nthistle,2080
+22,Carl Schildkraut,2076
+23,Nathan Fenner,2074
+24,mrphlip,2069
+25,mcpower,2027
+26,D. Salgado,2014
+27,Neal Wu,1891
+28,Oskar Haarklou Veileborg,1874
+29,ZED.Charley William Thairo,1803
+30,Anish Singhani,1677
+31,PikMike,1601
+32,5space,1547
+33,Tris Emmy Wilson,1481
+34,Superluminal Lag,1476
+35,Jimmy MÃ¥rdell ,1464
+36,LegionMammal978,1448
+37,Zeyu Chen,1444
+38,Golovanov399,1442
+39,Oliver Ni,1433
+40,josh chen,1411
+41,Thai Pangsakulyanont,1366
+42,peter50216,1334
+43,Maxwell Zen,1322
+44,arknave,1263
+45,Tim Vermeulen,1252
+46,Henry X,1241
+47,Craig Gidney,1232
+48,tjjfvi,1228
+49,bucketpotato01,1210
+50,bjebert,1195
+51,Zack Lee,1150
+52,connorjayr,1140
+53,jebouin,1136
+54,btnlq,1084
+55,Ryan Hitchman,1068
+56,Ritwin Narra,1020
+57,msullivan,1004
+58,Ian DeHaan,995
+59,bcc32,984
+60,Yosuke Sameshima,979
+61,boboquack,973
+62,Markus Himmel,972
+63,Thomas Feld,970
+64,etotheipi1,963
+65,ruuddotorg,962
+66,kevinmchung,959
+66,hughcoleman,959
+68,lucifer1004,925
+69,Steven Hao,923
+70,petertseng,918
+71,Erik Amirell EklÃ¶f,913
+72,SheepTester,892
+73,scanhex,888
+74,glguy,884
+75,Thomas Steinke,883
+76,SanguineChameleon,880
+77,larry,871
+78,Waffle 3z,849
+79,Erik Szalay,829
+80,Xavier Cooney,828
+81,qpwoeirut,827
+82,Roman Elizarov,821
+83,nim-ka,816
+84,drebelsky,810
+85,Max Murin,806
+85,@DmitrySayutin,806
+87,Benedikt Werner,789
+88,rhendric,786
+89,alcatrazEscapee,779
+90,MÃ¥ns Magnusson,772
+91,Joseph Durie,767
+92,mayoff,758
+93,Nick Gavalas,751
+94,(anonymous user #815608),749
+95,Kevin Sheng,743
+96,GregorKikelj,736
+97,Yoshiap,735
+98,FillyAutomatic,707
+99,Adib Surani,703
+100,Kevin Yap,689
+101,ast-ral,661
+102,KevinL10,659
+103,awychong,638
+104,Ninjaclasher,635
+105,(anonymous user #516724),616
+106,VasilyDK,614
+107,Kroppeb,609
+108,liouzhou_101,586
+109,David Robinson,581
+110,Tom Sirgedas,578
+111,Patrick Hogg,570
+112,(anonymous user #60233),566
+112,RedwolfPrograms,566
+114,Springo,560
+115,(anonymous user #1760732),556
+116,Tanner Hoke,548
+117,vstrimaitis,547
+118,0e4ef622,537
+119,Alexander Haupt,529
+120,Exaphis,514
+121,Jared Hughes,511
+121,George Hotz,511
+123,Paul Draper,500
+124,val tron,499
+125,Balint R,493
+126,alexirpan,481
+127,Md Abedin,469
+128,dmed256,467
+129,Kye W. Shi,464
+130,Joshua Wise ,463
+131,Manish Kundu,462
+132,asottile,454
+133,Matt Gruskin ,448
+134,seligman99,446
+135,mniip,441
+136,Defelo,438
+136,Tomas Rokicki,438
+138,(anonymous user #1525144),416
+138,Joey Marianer,416
+140,SÃ¸ren Fuglede JÃ¸rgensen,410
+140,Alex Oro ,410
+142,(anonymous user #1539845),408
+143,progheal,407
+144,jaspercb,390
+145,jo3-l,385
+146,Kyle Franke,384
+147,Sam Shideler ,383
+147,aropan,383
+149,Virgile Andreani,382
+150,Tobias-Glimmerfors,380
+151,SeanRBurton,377
+152,Nitrate_,376
+152,Harry Slatyer,376
+154,twattanawaroon,374
+155,sciyoshi,373
+156,Gorane7,372
+156,(anonymous user #681412),372
+158,Robin Yu,371
+159,Matthew Ramina,370
+160,Colton Pauderis ,369
+161,Etienne Vouga,368
+162,Ambrose Feinstein,365
+163,pfg,364
+164,Murray Edwards ,358
+165,SizableShrimp,357
+166,burdanov,356
+167,Kevin Wang,349
+167,Jean-NoÃ«l Monette,349
+169,(anonymous user #47898),348
+170,Joel Gibson,347
+171,Timothy Mou,343
+171,skaldskaparmal,343
+173,Ryan Fitzgerald,338
+174,Keenan G,333
+175,(anonymous user #1350909),330
+176,Tran Xuan Bach,328
+177,kejadlen,325
+178,Max JÃ¤ger ,323
+178,hltk,323
+178,Lukas Huwald,323
+181,Davis Yoshida,320
+182,Clancy Woodburn,319
+182,Jan Verbeek,319
+184,Talchas,318
+185,Anshuman Dash,317
+186,cup2of2tea,316
+187,Evan Howard,315
+188,LK,314
+189,Andrew Jennings,310
+190,Utkarsh Kukreti,303
+191,klange,301
+192,todaybrian,296
+193,Casey Bolton,293
+193,Lauri KenttÃ¤,293
+195,printfn,288
+196,noblematt,287
+196,jellevandenhooff ,287
+196,Andrii Grynenko,287
+199,Connor Nelson,281
+200,Hm Dunce,277
+201,S. Teikn Smith,274
+202,ncfavier,272
+203,Edward Xiao,270
+204,Greg Zborovsky,268
+205,1234abcdcba4321,265
+205,Martin Å tefÄek ,265
+207,Bandhi,262
+208,Artemis,261
+209,hsun324,260
+210,tbodt,259
+210,Lingrui Xie,259
+212,mwk48,258
+213,Nick Frost,253
+214,quentinmit,251
+215,Vincent Galloro,248
+215,ElectraMiner,248
+217,mrkeldon,246
+217,Jouni K. SeppÃ¤nen,246
+219,Sourish Sharma ,242
+219,ZorbaTHut,242
+219,Matthew Reeder ,242
+222,(anonymous user #970329),241
+223,Drew Boyuka,240
+224,NieDzejkob,239
+225,Michael Lucy,238
+225,andyleap,238
+227,skittles1412,236
+228,HiggstonRainbird,234
+229,miriam-rittenberg,233
+230,a-e-k,232
+231,sampersand,231
+232,Ivan Galakhov,229
+232,Brian Dean,229
+234,It&apos;s a Shill,228
+235,(anonymous user #643659),227
+236,Pedro OsÃ³rio,226
+237,anna,225
+238,Joel Jonsson,224
+239,Lars Haulin ,223
+240,andy-k,221
+241,jhawthorn,218
+242,Andrey Anurin ,217
+242,leonfroschauer,217
+242,mebeim,217
+245,mingmingrr,216
+245,(anonymous user #1691411),216
+245,(anonymous user #858833),216
+248,mpsijm,215
+249,Brian Bucklew ,210
+250,Gabriel Kanegae,209
+250,Daniel Yang,209
+250,InternetPerson10,209
+250,Tristan Lee,209
+254,drougge,208
+255,Nick,207
+256,(anonymous user #44119),206
+257,4yn,205
+258,Andrew Schor,204
+258,icicl,204
+260,penteract,203
+260,rHermes,203
+262,lukechampine,201
+262,Michal ForiÅ¡ek,201
+262,(anonymous user #1003120),201
+265,r_sreeram ,200
+266,Barry Fam,199
+267,dllu,198
+268,Tropical Trevor,197
+269,heinrich5991,195
+270,DayDun,192
+270,twright0,192
+272,Starwort,191
+272,Brian Zhou ,191
+274,EverettYoung ,190
+275,(anonymous user #1565212),187
+275,Mathis Hammel ,187
+277,owowowowo,186
+277,Danny Lin,186
+277,ðð ,186
+280,Ivan Lyzhin,185
+281,Andrey Akhmetov,184
+282,Michael Broughton,183
+283,(anonymous user #975121),180
+283,Jeff Davidson,180
+285,(anonymous user #1087784),179
+286,Dario SuÄiÄ,178
+286,abertell,178
+286,Valokoodari,178
+286,Joseph Gleason ,178
+290,Dustin Miao,177
+291,bradleysigma,175
+291,JacksonDonaldson,175
+293,Robert Usher,173
+294,ManyPinkHats,172
+295,nlc,170
+295,ghlmtz,170
+295,rocket3989,170
+298,arrowbounce,169
+298,Vince7778,169
+300,jhurwitz,166
+300,Karl-Aksel Puulmann,166
+300,(anonymous user #450045),166
+303,Michael Phelps,165
+303,HertzDevil,165
+305,John Churchill,164
+306,Justin Le,163
+307,danbaterisna,162
+308,shengwu,161
+308,Adam Gausmann,161
+308,Justin Jaffray,161
+311,monkeynova,160
+312,vtjeng,159
+312,EricLikesMen,159
+312,puddi,159
+315,tjleing,158
+315,atsymboldot,158
+315,Dox Dust,158
+318,Olle Lapidus,157
+318,Guillaume AMBAL,157
+318,Noble Mushtak,157
+321,Sid,156
+322,Trung Äáº·ng ÄoÃ n Äá»©c,155
+322,Tom ,155
+322,thederekkaplan,155
+325,lunixbochs,153
+326,ÐÐµÐ½Ð³Ð°Ð»ÑÐ² ÐÐ°Ð½Ð¸Ð¸Ð»,152
+327,Zack Chroman,151
+328,chunkybanana,150
+329,Anango Prabhat,149
+329,PÃ©ter KovÃ¡cs,149
+329,Lawrence Kesteloot ,149
+332,pppery,148
+332,Thomas Neill,148
+334,Shaan Keole,146
+335,Toni Fadjukoff ,144
+335,(anonymous user #1690091),144
+335,Paul Zagieboylo ,144
+338,RundownRhino,143
+338,vincentwoo,143
+340,Paul Martinez,142
+340,Bennett Marsh ,142
+340,Chris McElroy,142
+340,(anonymous user #198392),142
+344,(anonymous user #199929),141
+344,mjh316,141
+344,Christofer Ohlsson ,141
+347,yuizumi,139
+348,Oleg Godovykh,137
+348,tecknicaltom,137
+348,ashley-lin,137
+351,Bradley Steel,136
+351,Pandu Rendradjaja,136
+351,mdlu,136
+354,Joshua Broeksteeg,135
+354,Andrei Dukhounik,135
+356,Daniel Strizhevsky,134
+356,izhang05,134
+356,sin-ack,134
+359,Vladimir Zelevinsky,133
+359,nathanchere,133
+361,Professor Xmonad ,132
+361,(anonymous user #750627),132
+363,Mathias BÃ¦k Tejs Knudsen,130
+364,Cameron Aavik,129
+364,RyanLuu,129
+364,ponte-vecchio,129
+367,jeffreykaili,128
+367,Alexandre Grison,128
+369,ddlatham ,127
+369,Ethan Tillison,127
+369,Jens Ãkerlund ,127
+372,Daniel Martin,126
+372,Kai Si,126
+374,(anonymous user #434737),125
+374,elu00,125
+374,Simon Harms,125
+374,Ali Zahid Raja,125
+378,MatthewPiorko,124
+379,Rebecca Chen,123
+380,mimo31,122
+381,Prabith Gupta,121
+381,ansgarwenzel ,121
+381,Yto,121
+381,nicku12345,121
+385,Aaron ,120
+385,Jonathan Stein,120
+387,coolcomputery,119
+387,Bosco Wang,119
+389,GÃ¡bor Ferenc KovÃ¡cs,118
+389,Jocelyn Stericker,118
+391,cmears,117
+391,Raven Black,117
+393,dipernalz,116
+393,JBYoshi,116
+393,@mbingo,116
+396,Sumner Evans,115
+396,(anonymous user #1087789),115
+396,dionyziz,115
+396,(anonymous user #1522121),115
+400,lightseba,114
+400,maffoo,114
+402,Kathryn Tang ,113
+402,(anonymous user #1585122),113
+404,Oleg Rudenko,112
+405,Xin Wei Chow ,111
+406,LyricLy,110
+406,thecatrine,110
+406,(anonymous user #151221),110
+406,Jonathan Ho ,110
+410,Lydxn,109
+411,Den Mukhametianov ,108
+411,SeptaCube,108
+413,VeeArr ,106
+414,crazymerlyn,105
+414,kg,105
+414,Kirk Spaziani ,105
+417,Anand Oza,104
+417,James Berglund,104
+417,Aiden Sweezey,104
+417,AhmadBarhamje,104
+417,(anonymous user #371225),104
+417,skyhawk33,104
+423,HexDecimal,103
+424,kwaters,102
+425,Eduardo Quirino,101
+425,Dormi,101
+425,Roderic Day,101
+425,Lazy Zefiris,101
+425,amardatar,101
+430,Kristian Bjerre Schmidt ,100
+430,Ootsuha,100
+430,Eldar Bogdanov ,100
+433,asymmetricia,99
+433,Ephraim Oliphant,99
+435,Aaron-Pierce,98
+435,Corncycle,98
+435,(anonymous user #1047278),98
+435,Coby Tran,98
+435,Josef MinaÅÃ­k,98
+435,jwalck ,98
+441,Andrew Audibert,97
+442,Daniel Whatley,96
+442,(anonymous user #408266),96
+442,Mercerenies,96
+442,Howard Yun,96
+442,Albert Chu,96
+442,schmrlng,96
+442,Jacob Danks ,96
+442,Nic N,96
+442,jimscchen,96
+451,shinymegaaltaria,95
+451,Avongard,95
+451,richzli,95
+451,Logo,95
+455,Blys,94
+455,Roger Curley,94
+455,David Dodge,94
+458,vii,93
+458,Jakub Kotrs,93
+460,William Moses,92
+460,Timothy Elling ,92
+462,tonghuikang,91
+462,sguest,91
+462,Omkar Bhalerao,91
+462,bast,91
+462,q----,91
+467,Jeremiah Simmons ,90
+467,ekisacik,90
+467,Eric Aderhold,90
+470,Max Bowman,89
+470,Francisco Demartino,89
+470,Anja OstovrÅ¡nik,89
+470,Seth Richter,89
+474,(anonymous user #426829),88
+474,jwolf20,88
+474,AleksMat,88
+474,Mushinako,88
+478,gwillen,87
+478,mxmeinhold,87
+478,Pax Probliscum,87
+481,Lukas Froehlich,86
+481,Josh,86
+481,dh-blend,86
+481,(anonymous user #89790),86
+481,Chris Battey,86
+481,csteele24,86
+481,CpnAhab,86
+488,Linus Hamilton,85
+488,Troels Bjerre Lund ,85
+488,Zach Farr,85
+488,Lachlan Roche,85
+488,Chris Narrikkattu,85
+493,Paul McMullin,84
+493,David Henderson,84
+493,Henrik Lievonen,84
+496,Bailey Parker,83
+496,James McGowan,83
+498,Matthew Yang,82
+498,Maggie Liu,82
+498,Robert Tupelo-Schneck,82
+498,David Philipson,82
+498,covoc,82
+498,Verulean,82
+498,Daniel Jump ,82
+505,Caleb Wang,81
+505,mister-person,81
+507,rpearl,80
+507,Frowny,80
+507,SÃ©bastien FREYMANN,80
+507,Waleed Khan,80
+511,leer,79
+511,(anonymous user #1808658),79
+513,Tristan Rasmussen,78
+513,Will Liang,78
+513,Mr Ranieri,78
+513,Jamas Enright,78
+517,sievers,77
+517,Tony Jiang ,77
+517,Schobers ,77
+517,Albert ,77
+521,Nathan Wang,76
+521,nsunderland1,76
+521,Orion Martin,76
+524,Michael Goldwasser,75
+524,JuanPotato,75
+524,(anonymous user #1569207),75
+524,xelf,75
+524,ShaoWei Teo,75
+529,m1el ,74
+530,okready,73
+531,Leon Loopik,72
+531,Tim Huisman,72
+531,Zachary Liu,72
+531,@CHz16,72
+531,Robin Evers,72
+531,Ocawesome101,72
+531,Alex Yu,72
+538,Lammatian,71
+539,narpfel,70
+539,Andriamanitra,70
+539,Eagle Diao,70
+539,Greg Hamerly,70
+539,WILLIAM WANG,70
+539,Erik Mulder,70
+539,viv2d2,70
+546,@halfpixel274,69
+546,Justin Kaufman,69
+546,Alexander Skiba,69
+546,Ian Steptoe,69
+546,Anton Likhtarov,69
+546,Colin Siles,69
+546,Hunter Staiger,69
+546,(anonymous user #1553326),69
+546,Stynson ,69
+555,xupej04m3,68
+555,Emil Hvitfeldt,68
+555,Bradley Louie,68
+555,Daniel K,68
+559,Greg Walker (he/him),67
+560,Julian Ecknig,66
+560,Thomas,66
+560,Nick Meyer ,66
+560,Whelch,66
+564,slycelote,65
+564,negatratoron,65
+564,Jake Poznanski ,65
+564,(anonymous user #689873),65
+564,Mike Tadd ,65
+569,cjquines,64
+569,msg555,64
+569,nshepperd,64
+569,dzheng-root,64
+573,BjornMagn,63
+573,Peter Dowdy,63
+573,jakzo,63
+573,Mitja Å½alik,63
+573,Asa Kaplan,63
+573,Loks-,63
+579,Anthony Nguyen,62
+579,(anonymous user #1062619),62
+579,matthewd,62
+579,Jason Holloway,62
+579,tinawu98,62
+584,Alex Cornellier ,61
+584,Aryaman Arora,61
+584,tincaMatei,61
+584,Lengjunyi,61
+584,jorendorff,61
+589,yutu58,60
+589,Trevor Stirling,60
+589,David Zheng,60
+589,Jay Bosamiya,60
+589,Santi Badp,60
+589,Derick Mathew,60
+589,Ryan Zuklie,60
+596,Bryan Deng,59
+596,yodabo,59
+596,tmwn,59
+596,Carlo Fazioli ,59
+596,Redcrafter,59
+601,Jacob Magnuson ,58
+601,Den Raskovalov,58
+601,Matt Murfitt,58
+601,(anonymous user #1322744),58
+605,(anonymous user #998664),57
+605,joefarebrother,57
+605,kalvdans,57
+605,Jose Gatica,57
+605,JacksonRaffety,57
+610,Unihedron,56
+610,startrekdude,56
+610,Ãgoston Sipos,56
+610,Henrik Ygge,56
+610,Hanna GÃ¡bor,56
+615,Mathgeek007,55
+615,Jerry Liu,55
+615,winderica,55
+615,Nicholas Tarsis,55
+615,Rascal_Two,55
+615,BernÃ¡t TarjÃ¡n,55
+621,Kingsley Zhong,54
+621,m42e,54
+621,Nathaniel Flath,54
+621,whaatt,54
+621,William Wang,54
+621,sheern,54
+621,Daniel Johns,54
+628,(anonymous user #994411),53
+628,(anonymous user #1569751),53
+628,Henrik Lehtonen,53
+628,Sam Sartor,53
+628,BrenBarn,53
+628,Arjan de Pooter,53
+634,smrq,52
+634,lavalamp3773,52
+634,Nikolai Kostyukovich,52
+637,Jacob Wood,51
+637,RadioactiveHydra,51
+637,William Johnson,51
+637,Chris Shabsin ,51
+641,(anonymous user #1125744),50
+641,parthsarin,50
+641,johnnyapol,50
+641,Xiongqi ZHANG ,50
+641,Kate Yu ,50
+646,Siddhant Attavar,49
+646,UnrelatedString,49
+646,Zach Banks,49
+646,Dennis Hu,49
+650,Ryan Norris,48
+650,james-seymour,48
+650,Allen Li,48
+650,@yllan,48
+650,Philipp Seeger,48
+655,asishm,47
+655,eu3neuom,47
+655,CTF-BLAHAJ,47
+655,Jens StÃ¥hl,47
+655,Jack Frost,47
+660,Aquaj,46
+660,Leo Tenenbaum,46
+660,William Feng,46
+660,Joseph Swernofsky,46
+660,sparkyb,46
+660,Pete Ryland ,46
+660,Philipp Lenk,46
+667,(anonymous user #1215342),45
+667,Bahnschrift,45
+667,Apollo,45
+667,Quintec,45
+667,WRL,45
+667,(anonymous user #1573496),45
+667,Howard Cheng,45
+667,Peter Weinkam,45
+667,Magnus Brange,45
+676,vukonen,44
+676,Michael Hale,44
+676,mikey_g,44
+679,gurgeous ,43
+679,David Hansen ,43
+679,Kyle Toom,43
+679,Jack Tang,43
+679,Dominick Han,43
+679,KataReborn267,43
+679,aditsu,43
+686,Chris Bernt,42
+686,messa,42
+686,(anonymous user #1021156),42
+686,Nick Egan,42
+686,Olivier Le Floch,42
+691,(anonymous user #1196343),41
+691,JÃ¸rn Lode,41
+691,abailey2020,41
+691,maneframe ,41
+691,PiErr0r,41
+691,shelerr,41
+697,Sunny Guan,40
+697,PaweÅ Kubiak,40
+697,Tanner Sandlin,40
+697,khvorov,40
+697,RussellDash332,40
+697,dwhiffing,40
+697,Asier Aguirre,40
+704,Graham White,39
+704,nadah09,39
+704,shreyasravi320,39
+704,Christophe Papazian,39
+704,Ethan Olpin,39
+704,Sam Mauldin,39
+704,SammyBaek,39
+704,Michal StanÃ­k,39
+704,epsalon,39
+704,sandeep gupta,39
+704,Sarah Murphy,39
+704,Jakub Cimerman,39
+716,kjsatz,38
+716,Dustin Bigham,38
+716,davidhao3300,38
+716,tomas sumsala,38
+716,Joshi,38
+716,Adrian KÅoskowski,38
+722,Enterprize1 ,37
+722,Dima Kamalov,37
+722,MeepMoop,37
+722,Maria Afanasievna Kolyvanova,37
+722,jjjxu,37
+722,Brad Wilson,37
+728,Carson Graham,36
+728,Leo Varis,36
+728,chluebi ,36
+728,meexwaal,36
+728,james1236,36
+728,Snild Dolkow ,36
+728,BÃ©la MÃ©rvadÃ³ ,36
+728,Kevin An,36
+728,(anonymous user #668767),36
+728,Nichsici Dejan,36
+738,cub,35
+738,Ian Su,35
+738,SyndaKai,35
+738,Darshan Krishnaswamy,35
+738,Matthew Misiaszek,35
+738,jmgs,35
+738,Han Mertens,35
+738,vasi,35
+746,Alec Brickner,34
+746,Kevin Chen,34
+746,Richard Wang,34
+746,rcarneva ,34
+746,Sherwin Kwan,34
+746,Tomay0,34
+746,bighetti ,34
+753,Lur,33
+753,Tylan McKinney,33
+753,Artur Beznosyuk,33
+753,smorgenthau1,33
+753,Alan Tam,33
+753,theonlytruemathnerd,33
+753,ÃzgÃ¼n Ãzusta,33
+760,Roger Fan,32
+760,(anonymous user #1556836),32
+760,(anonymous user #963726),32
+760,Casey Manning,32
+760,travisdoesmath,32
+760,Brian Biskeborn,32
+760,Jascha Bakarinow,32
+760,jmcarter17,32
+768,MasterMedo,31
+768,zerowidth,31
+768,zwade,31
+768,Lance Nathan,31
+768,(anonymous user #1569907),31
+768,ngn,31
+768,Pavel Egorov,31
+775,Samuel Eisenhandler ,30
+775,Evan Kwan,30
+775,Maurice Barnett,30
+775,rilakchou,30
+775,Srinivas Arun,30
+775,Matthew Low,30
+775,Flaie,30
+782,Sampriti Panda,29
+782,Zachary Barbanell,29
+782,Josip Igrec,29
+782,obiwac,29
+782,meritite,29
+782,(anonymous user #387166),29
+782,ysfoo,29
+782,autid,29
+782,Hayden Jensen,29
+791,tehasdf,28
+791,bdrumheller,28
+791,Nnnes,28
+791,LUKILUKILITERATURE,28
+791,icemoon97,28
+791,(anonymous user #104021),28
+791,Can Berk GÃ¼der,28
+798,Zeyu Peng,27
+798,Niraj Patel,27
+798,Bhaumik Mehta,27
+798,Todd Chaney,27
+798,brigham ,27
+798,Heleor,27
+798,John Kesler,27
+798,mmmkkaaayy,27
+798,Will Killian,27
+798,Christopher Vandervoort,27
+808,Linda Zhou ,26
+808,Poke Poke,26
+808,Cory Forsyth,26
+808,(anonymous user #1707746),26
+808,(anonymous user #1041060),26
+808,Daniel Below,26
+814,Reed Hamilton ,25
+814,Sanjay,25
+814,Egor Kulikov ,25
+814,Rich Hogg ,25
+814,periodically-makes-puns,25
+814,Ben Carr,25
+814,ãã³ã¡ãã,25
+814,calcwizard ,25
+814,(anonymous user #1863813),25
+823,Daniel Kempner,24
+823,(anonymous user #305205),24
+823,Lucas M.,24
+823,tctree333,24
+823,Nathan Harold,24
+823,JJGO,24
+823,Jon Easterday,24
+823,Jakob Degen,24
+823,btjones0,24
+823,Daniel Rejment,24
+823,mischaikow,24
+834,nathanlo99,23
+834,Sarah Shader,23
+834,stephen-hansen,23
+834,bradendubois,23
+834,Marcus Martina,23
+834,Jason Wolfe,23
+834,Ari Blondal,23
+834,(anonymous user #1870150),23
+834,linkret,23
+843,ictrobot,22
+843,Nicholas,22
+843,Andrew Macheret,22
+843,kshxtij,22
+843,Lawrence Yu,22
+848,Aaron Fink,21
+848,(anonymous user #1638226),21
+848,Ivan Dashkevich,21
+848,sainaen,21
+848,travis meade ,21
+848,Samy Cherfaoui,21
+854,Matija Herceg ,20
+854,Maria Chrysafis,20
+854,Curtis Belmonte,20
+854,Goofables,20
+854,Clayton Smith ,20
+854,Harry Cummings,20
+854,IamfromSpace,20
+861,(anonymous user #488230),19
+861,JacobGathof,19
+861,Jakub DrobnÃ½,19
+861,Jieruei Chang,19
+861,Michael Andrews,19
+861,(anonymous user #1495230),19
+861,Jason Kang,19
+861,skanev,19
+861,Arhistal Games,19
+870,theraggedflygon,18
+870,Yardanico,18
+870,ChaseParate,18
+870,nOoO0oOo0b,18
+870,Samo Kralj,18
+870,Michael Grossfeld ,18
+870,Alexander Gaev,18
+870,(anonymous user #1696596),18
+870,Johnny Sammon,18
+879,artcz ,17
+879,Luke Schaeffer,17
+879,Sam Wang,17
+879,gorbit99,17
+879,LuAbelt,17
+879,adddvent,17
+885,andreasgruenh,16
+885,Zeki Gurbuz,16
+885,JKillian,16
+885,JackMacWindows,16
+885,Dallin Osmun,16
+890,abnew123,15
+890,Shiven Sinha,15
+890,acaulfie,15
+890,Pavel Kunyavskiy,15
+890,@kizuflux,15
+890,(anonymous user #1197407),15
+890,xivaxy,15
+890,runyao zhang,15
+898,Andrew Chien,14
+898,mgersh,14
+898,sblom,14
+898,(anonymous user #1183478),14
+898,Sofapuden,14
+898,arichnad,14
+898,(anonymous user #309038),14
+905,shages,13
+905,alfphaderp,13
+905,McModknower,13
+905,Kelly Dance,13
+905,Alexander Fenster ,13
+905,Samuel Showalter,13
+905,msc-27,13
+905,DJ Lee,13
+913,Stefan P,12
+913,daviecar,12
+913,89netraM,12
+913,Cheeto Lord,12
+913,strout,12
+913,(anonymous user #180769),12
+913,MattÃ©o Delabre,12
+913,kalaspuffar,12
+913,kalling,12
+913,Adam Eijdenberg,12
+923,SimpleArt,11
+923,theoleehusky,11
+923,Ryan Zhang,11
+923,Ali Arafati,11
+923,Dash ,11
+928,Ovidiu Firescu,10
+928,Arjun Nair,10
+928,BryantH24,10
+928,ÐÐ¼Ð¸ÑÑÐ¸Ð¹ Ð Ð¾Ð¶ÐºÐ¾Ð²,10
+928,Andrew Chafos,10
+928,ckennelly,10
+928,Frank Yellin,10
+928,njuro,10
+936,Nicholas Nigro,9
+936,paulshen,9
+936,A Bev,9
+936,Dmitry Ivanov,9
+936,TamÃ¡s TÃ³th ,9
+936,Dave Buchfuhrer ,9
+936,aaafwd,9
+943,DylanDmitri,8
+943,dsemi ,8
+943,Mizuko,8
+943,Marko Puza,8
+943,Dan Wood,8
+943,Quajak,8
+943,Caleb ,8
+943,Chris Breederveld,8
+943,Paul Menage ,8
+952,DeXtroTip,7
+952,@allymonies,7
+952,adventofk,7
+952,the-glu ,7
+952,Richard Fearn ,7
+952,linl33,7
+952,garbagetrash,7
+959,zgotsch,6
+959,jholman ,6
+959,Boris Skurikhin,6
+959,(anonymous user #1823453),6
+959,Daniel Tse,6
+959,Tis_awesomeness,6
+959,Wyatt Wismer ,6
+959,benmor20,6
+959,crescat ,6
+959,rbuch,6
+969,John Hornibrook,5
+969,e36freak ,5
+969,LX,5
+969,BeatButton,5
+969,@KizbySpark,5
+969,AstroSnail,5
+969,Viktor Adam,5
+969,uppi,5
+969,Alexander Tsidaev,5
+969,Christopher Brown,5
+979,Tom Zhanchi,4
+979,JohnnyWobble,4
+979,King-Rolkin,4
+979,negative-seven,4
+979,VVestin,4
+979,BEN1JEN,4
+979,Harish,4
+979,tallakahath,4
+979,Hadrian Reppas,4
+979,Justin Ardini,4
+979,Solq r,4
+990,Aadit Ambadkar,3
+990,Marcel Behrmann,3
+990,(anonymous user #1566186),3
+990,Jared Neil,3
+990,Allan Taylor ,3
+990,Joshua Martinez,3
+990,Shane Mc Cormack,3
+997,(anonymous user #1545252),2
+997,Corrissa L Smith,2
+997,Willem Kaufmann,2
+997,Katharine Berry,2
+997,elmquist,2
+997,Ben,2
+997,Maj Stenmark,2
+997,Christopher Trew,2
+997,Justin Kulikauskas,2
+997,Dawn Chen,2
+1007,HeyItsBATMAN,1
+1007,@liviuchircu,1
+1007,Eutro,1
+1007,Yenya,1
+1007,Veronika,1
+1007,Luka Horjak,1
+1007,tututuana,1
+1007,Galen Gornowicz,1
